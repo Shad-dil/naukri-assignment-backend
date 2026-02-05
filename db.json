@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Amit",
+      "lastName": "Kumar",
+      "email": "amit.sharma@gmail.com",
+      "phone": "5471424123"
+    },
+    {
+      "id": 2,
+      "firstName": "Neha",
+      "lastName": "Verma",
+      "email": "neha.verma@gmail.com",
+      "phone": "9123456789"
+    },
+    {
+      "id": 5,
+      "firstName": "Petkar",
+      "lastName": "Ayush",
+      "email": "petkar@gmai.com",
+      "phone": "5541478546"
+    },
+    {
+      "id": 6,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "hi@gmai.com",
+      "phone": "8742414241"
+    },
+    {
+      "id": 7,
+      "firstName": "Md ",
+      "lastName": "Dilshad",
+      "email": "helloshad3@gmail.com",
+      "phone": "7361547142"
+    }
+  ]
+}
