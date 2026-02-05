@@ -2,7 +2,7 @@
   "name": "naukri-backend",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch db.json --port 3001"
+    "start": "npx json-server --watch db.json --port 3001"
   },
   "devDependencies": {
     "json-server": "^0.17.4"
